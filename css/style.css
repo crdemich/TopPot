@@ -1,0 +1,27 @@
+
+body {
+  background-color:#F7F7FF;
+  padding: 22px;
+}
+
+header {
+  font-family:'Quattrocento', serif;
+  top:0px;
+  margin: 0px;
+  padding: 30px;
+  width: 95%;
+  font-size:250%;
+  background-color: #F0F0EB;
+  opacity: 0.7;
+  text-align:center;
+  line-height:.30em;
+}
+
+div#question {
+  text-align:center;
+  font-family: 'Quattrocento', serif;
+}
+
+p#intro {
+  font-size:125%;
+}
